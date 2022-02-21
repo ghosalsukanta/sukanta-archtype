@@ -24,12 +24,12 @@
 
     <name>AEM Sghosal Archetype</name>
     <description>AEM Sghosal archetype.</description>
-    <url>https://github.com/ghosalsukanta/suk-archtype</url>
+    <url>https://github.com/ghosalsukanta/sukanta-archtype</url>
 
     <scm>
-        <connection>scm:git:https://github.com/ghosalsukanta/suk-archtype.git</connection>
-        <developerConnection>scm:git:https://github.com/ghosalsukanta/suk-archtype.git</developerConnection>
-        <url>https://github.com/ghosalsukanta/suk-archtype/tree/master/</url>
+        <connection>scm:git:https://github.com/ghosalsukanta/sukanta-archtype.git</connection>
+        <developerConnection>scm:git:https://github.com/ghosalsukanta/sukanta-archtype.git</developerConnection>
+        <url>https://github.com/ghosalsukanta/sukanta-archtype/tree/master/</url>
         <tag>aem-project-archetype-26</tag>
     </scm>
     <licenses>
